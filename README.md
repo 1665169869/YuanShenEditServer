@@ -1,0 +1,2 @@
+# YuanShenEditServer
+原神B服官服切换器 每次使用必须重启米哈游启动器客户端
